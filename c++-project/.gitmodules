@@ -1,0 +1,3 @@
+[submodule "library/infoware"]
+	path = library/infoware
+	url = https://github.com/ThePhD/infoware.git
