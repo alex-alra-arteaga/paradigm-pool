@@ -1,9 +1,9 @@
 # Paradigm Pool
 
-### 3 week university program to learn the basics of Haskell, Modular C and C++ 
+### 3 week university program to learn the basics of Haskell, Modular C and C++
 
 Each day has a folder with the completed exercises.   
-The last day of each language is a project that is done in groups of 2 to 4 people.
+The last day of each language is a project that is done in groups of 2 to 4 people.   
 Note that some days had a morning and afternoon session, so there are two folders for those days.
 
 ### Haskell
@@ -50,5 +50,12 @@ Modular C program (C++ mimic) with lists, queues, iterators, stacks, vectors, ma
 
 ### C++ Project (3 people)
 
-System monitor program that displays information about the system and processes in a window with SFML and in terminal via nCurses.
+System monitor program that displays information about the system and processes in a window with SFML and in console via nCurses.   
+Linux and MacOS compatibility for graphical, only MacOS compatibility with console.   
 See its project README for building and installation instructions.
+
+Graphical:   
+![image](https://github.com/alex-alra-arteaga/paradigm-pool/assets/108436798/68fc620c-1f98-422a-9282-6dccffe78c11)
+
+Console:   
+![image](https://github.com/alex-alra-arteaga/paradigm-pool/assets/108436798/2d0b80f3-20fa-4536-bbfe-75962eb975b5)
